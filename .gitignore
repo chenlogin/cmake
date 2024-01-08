@@ -1,0 +1,11 @@
+.idea
+.vscode
+.settings
+node_modules
+dist
+
+01/build
+02/build
+03/build
+04/build
+05/build
